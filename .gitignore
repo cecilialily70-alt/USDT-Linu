@@ -1,0 +1,22 @@
+# 密钥与本地环境
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# 依赖与缓存
+backend/.venv/
+backend/__pycache__/
+frontend/node_modules/
+*.pyc
+.Python
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+_chk.txt
+_pip.txt
+_build_log.txt
+_cleanup_check.txt
